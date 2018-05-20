@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pot",
+  "name": "Project_potato",
+  "description": "Adds progressive potato related content as well as some miscellaneous stuff.",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Qwert9203 ,Overcooking"],
+  "credits": "Gabriel",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
