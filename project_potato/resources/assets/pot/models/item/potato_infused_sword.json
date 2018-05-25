@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures":{
+        "layer0": "pot:items/potato_infused_sword"
+    }
+}

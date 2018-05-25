@@ -1,7 +1,31 @@
-tile.potato_block.name=Potato Block
+tile.potato_block.name=Potato block
 tile.block_of_gabriel.name=GABRIEL
+tile.potato_pulp.name=Potato pulp
+tile.phosphorite_ore.name=Phosphorite ore
 
 
 
+item.compressed_potato.name=Compressed potato
+item.potato_essence.name=Potato essence
+item.phosphorite.name=phosphorite
+item.potato_pave.name=potato_pavé
+item.phosphorus_pentoxide.name=Phosphorus pentoxide
+item.potato_infused_ingot.name=Potato infused ingot
 
-item.compressed_potato.name=Compressed Potato
+
+item.potato_infused_helmet.name=Potato infused helmet
+item.potato_infused_chestplate.name=Potato infused chestplate
+item.potato_infused_leggings.name=Potato infused leggings
+item.potato_infused_boots.name=Potato infused boots
+
+
+item.potato_infused_pickaxe.name=Potato infused pickaxe
+item.potato_infused_axe.name=Potato infused axe
+item.potato_infused_hoe.name=Potato infused hoe
+item.potato_infused_shovel.name=Potato infused shovel
+item.potato_infused_sword.name=Sword of the potato
+item.phospholipid_pickaxe.name=Phospholipid pickaxe
+item.phospholipid_axe.name=Phospholipid axe
+item.phospholipid_hoe.name=Phospholipid hoe
+item.phospholipid_shovel.name=Phospholipid shovel
+item.phospholipid_sword.name=Phospholipid sword of Gabriel
