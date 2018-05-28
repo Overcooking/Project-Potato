@@ -1,0 +1,52 @@
+container.altar_core=Altar core
+
+tile.potato_block.name=Potato block
+tile.block_of_gabriel.name=GABRIEL
+tile.potato_pulp.name=Potato pulp
+tile.phosphorite_ore.name=Phosphorite ore
+tile.altar_core.name=Altar core
+tile.graphite_ore.name=Graphite ore
+tile.potatium_ore.name=Potatium ore
+tile.gabrium_ore.name=Gabrium ore
+
+
+item.compressed_potato.name=Compressed potato
+item.potato_essence.name=Potato essence
+item.phosphorite.name=phosphorite
+item.potato_pave.name=potato_pavé
+item.phosphorus_pentoxide.name=Phosphorus pentoxide
+item.potato_infused_ingot.name=Potato infused ingot
+item.phospholipid_chunk.name=Phospholipid chunk
+item.potatium_ingot.name=Potatium ingot
+item.gabrium_ingot.name=Gabrium ingot
+
+
+item.potato_infused_helmet.name=Potato infused helmet
+item.potato_infused_chestplate.name=Potato infused chestplate
+item.potato_infused_leggings.name=Potato infused leggings
+item.potato_infused_boots.name=Potato infused boots
+item.phospholipid_helmet.name=Phospholipid helmet
+item.phospholipid_chestplate.name=phospholipid chestplate
+item.phospholipid_leggings.name=Phospholipid leggings
+item.phospholipid_boots.name=Phospholipid boots
+item.potatium_helmet.name=Potatium helmet
+item.potatium_chestplate.name=Potatium chestplate
+item.potatium_leggings.name=Potatium leggings
+item.potatium_boots.name=Potatium boots
+item.gabrium_helmet.name=Gabrium helmet
+item.gabrium_chestplate.name=Gabrium chestplate
+item.gabrium_leggings.name=Gabrium leggings
+item.gabrium_boots.name=Gabrium boots
+
+
+
+item.potato_infused_pickaxe.name=Potato infused pickaxe
+item.potato_infused_axe.name=Potato infused axe
+item.potato_infused_hoe.name=Potato infused hoe
+item.potato_infused_shovel.name=Potato infused shovel
+item.potato_infused_sword.name=Sword of the potato
+item.phospholipid_pickaxe.name=Phospholipid pickaxe
+item.phospholipid_axe.name=Phospholipid axe
+item.phospholipid_hoe.name=Phospholipid hoe
+item.phospholipid_shovel.name=Phospholipid shovel
+item.phospholipid_sword.name=Phospholipid sword of Gabriel
